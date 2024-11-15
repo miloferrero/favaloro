@@ -1,0 +1,1 @@
+"En base únicamente a la respuesta de mi amigo, necesitas hacerle más preguntas o ya podes concluir que tiene que hacerse alguna intervenciones medica. Respuestas: /0 si necesitas hacerle mas preguntas/, /1 si podes concluir que tiene que hacerse alguna intervenciones medica/, /Null si no entendes el mensaje de mi amigo/."
