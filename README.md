@@ -1,6 +1,6 @@
-# Chatbot de WhatsApp con GPT-4 🚀
+# Triage Médico con WhatsApp con GPT-4 🚀
 
-¡Bienvenido! Este proyecto es un chatbot de WhatsApp creado con Flask que utiliza GPT-4 para responder preguntas de forma inteligente. También incluye una base de datos para guardar las conversaciones y funciones útiles para gestionar mensajes. Ideal para automatizar respuestas y brindar soporte personalizado.
+¡Bienvenido! Este proyecto es un chatbot de WhatsApp creado con Flask que utiliza GPT-4 para responder preguntas de forma inteligente consultas medicas de guardia. También incluye una base de datos para guardar las conversaciones y funciones útiles para gestionar mensajes. Ideal para automatizar respuestas y brindar soporte personalizado.
 
 ## 🚀 ¿Qué puede hacer este bot?
 
