@@ -58,16 +58,12 @@
 - Tono de respuesta: Ajusta el temperature para hacerlo más creativo o preciso.
 - Mensajes finales: Edita la variable mensaje_fin_en_guardia.
 
-## ❤️ ¿Qué sigue?
-
-¡Úsalo como base para tus propios proyectos! Puedes personalizarlo para atención al cliente, soporte técnico, o cualquier idea que tengas en mente.
-
 ## ✉️ Contribuir
 
 Si tienes ideas o mejoras, no dudes en abrir un pull request o crear un issue.
 
 ## 📝 Licencia
 
-Este proyecto está bajo la licencia MIT. Puedes usarlo libremente, solo no olvides dar crédito. 😊
+Este proyecto está bajo licencia.
 
 ¡Diviértete creando! 🚀
